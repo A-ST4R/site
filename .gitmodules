@@ -4,9 +4,6 @@
 [submodule "_quotes"]
 	path = _quotes
 	url = https://github.com/A-ST4R/_quotes
-[submodule "notes"]
-	path = notes
-	url = https://github.com/A-ST4R/notes
 [submodule "images"]
 	path = images
 	url = https://github.com/A-ST4R/images
