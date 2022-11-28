@@ -8,6 +8,6 @@ events:
   - spacewar-gamepad
   - magnavox-odyssey
   - atari-2600
-  - Nintendo64
+  - nintendo64
   - NintendoEntertainmentSystem
 ---
