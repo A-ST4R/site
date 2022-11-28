@@ -12,11 +12,11 @@ theme: minimal-mistakes-jekyll
 locale                   : "gr-GR"
 title                    : "Κατασκευή Συστημάτων Διάδρασης"
 title_separator          : "-"
-name                     : "pibook"
+name                     : "A-ST4R"
 description              : "Making Interactivity Greek Book."
-url                      : "https://pibook.epidro.me"
+url                      : "https://deluxe-otter-6c7bf0.netlify.app/"
 baseurl                  : ""
-repository               : "pibook/site"
+repository               : "A-ST4R/site"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -72,7 +72,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "epidrome"
+  github           : "A-ST4R"
   gitlab           :
   google_plus      :
   keybase          :
